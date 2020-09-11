@@ -1,37 +1,11 @@
-## Welcome to GitHub Pages
+# Barnes Portfolio
+This is my class project page. 
 
-You can use the [editor on GitHub](https://github.com/rlbarnes/B-sportfolio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## About Me...
+I am Rebekah Barnes and my pronouns are she, her, hers. I am an Army War College (AWC) Student assigned to CMU Heinz College. My goal is to take classes that will assist me in developing compelling papers for senior Leaders in the Army to use for decision making. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### What I hope to learn...
+I hope to learn how to synthesize data for decision makers to process quickly and provide guidance for workers. My primary assignment from the AWC is two write two papers. I have a very broad topic on identifying the Army role in responding to cyber-attacks. I hope to learn more about Artificial Intelligence and smart technologies to understand how we can modernize networks using them. 
 
-### Markdown
+#### Portfolio
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/rlbarnes/B-sportfolio/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
